@@ -33,8 +33,9 @@ Indie developer from Istanbul. I build small browser tools and automations that 
 **A downloader for Reddit.** Adds a Download button to every post: images, galleries, videos with sound, GIFs, Redgifs and Imgur links.
 
 <p>
-  <a href="https://github.com/segelferd/grabpost/blob/main/CHANGELOG.md"><img alt="Latest version" src="https://img.shields.io/github/manifest-json/v/segelferd/grabpost?label=version&color=FF4500"></a>
-  <img alt="Chrome, Edge, Brave, Opera, Firefox" src="https://img.shields.io/badge/Chromium%20%26%20Firefox-install%20from%20GitHub-555">
+  <a href="https://chromewebstore.google.com/detail/ejkhdjmfnmcjclhpecgoiabcigmmpkia"><img alt="Chrome Web Store users" src="https://img.shields.io/chrome-web-store/users/ejkhdjmfnmcjclhpecgoiabcigmmpkia?label=Chrome&logo=googlechrome&logoColor=white&color=FF4500"></a>
+  <a href="https://addons.mozilla.org/firefox/addon/grabpost-downloader-for-reddit/"><img alt="Firefox Add-ons users" src="https://img.shields.io/amo/users/grabpost-downloader-for-reddit?label=Firefox&logo=firefoxbrowser&logoColor=white&color=FF4500"></a>
+  <a href="https://github.com/segelferd/grabpost/blob/main/CHANGELOG.md"><img alt="Latest version" src="https://img.shields.io/github/manifest-json/v/segelferd/grabpost?label=version&color=555"></a>
 </p>
 
 - **Bulk download** of whole subreddits, profiles, searches and saved posts, with Reddit's rate limits respected
@@ -52,7 +53,7 @@ Indie developer from Istanbul. I build small browser tools and automations that 
 
 ### 🌱 Right now
 
-KickAlert 2.6.2 is rolling out to Chrome, Firefox and Edge, with Opera next. GrabPost is getting ready for the extension stores.
+KickAlert 2.6.2 is rolling out to Chrome, Firefox and Edge, with Opera next. GrabPost is now live on the Chrome Web Store and Firefox Add-ons.
 
 Both are source-available under the [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/) license: free for personal and noncommercial use.
 
