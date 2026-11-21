@@ -12,16 +12,37 @@ Indie developer from Istanbul. I build small browser tools and automations that 
   <a href="https://chromewebstore.google.com/detail/dlchkgjgcmbgpbdiiipibnpjfhipkbac"><img alt="Chrome Web Store users" src="https://img.shields.io/chrome-web-store/users/dlchkgjgcmbgpbdiiipibnpjfhipkbac?label=Chrome&logo=googlechrome&logoColor=white&color=53fc18"></a>
   <a href="https://chromewebstore.google.com/detail/dlchkgjgcmbgpbdiiipibnpjfhipkbac"><img alt="Chrome Web Store rating" src="https://img.shields.io/chrome-web-store/rating/dlchkgjgcmbgpbdiiipibnpjfhipkbac?label=rating&color=53fc18"></a>
   <a href="https://addons.mozilla.org/firefox/addon/kickalert/"><img alt="Firefox Add-ons users" src="https://img.shields.io/amo/users/kickalert?label=Firefox&logo=firefoxbrowser&logoColor=white&color=53fc18"></a>
-  <img alt="Edge and Opera coming soon" src="https://img.shields.io/badge/Edge%20%26%20Opera-coming%20soon-555">
+  <a href="https://microsoftedge.microsoft.com/addons/search/kickalert"><img alt="Available on Microsoft Edge Add-ons" src="https://img.shields.io/badge/Edge-available-53fc18?logo=microsoftedge&logoColor=white"></a>
+  <a href="https://github.com/segelferd/kick-alert/blob/main/CHANGELOG.md"><img alt="Latest version" src="https://img.shields.io/github/manifest-json/v/segelferd/kick-alert?label=version&color=555"></a>
 </p>
 
 - **Live alerts** for followed channels, plus raids, stream end and category changes, each with its own sound
-- **Auto-launch**: chosen channels open in a new tab when they go live
+- **Smart filters**: category, title words or a minimum viewer count, with an alert if a stream starts matching later
+- **Missed-stream summary** after a pause or Do Not Disturb
+- **Auto-launch**: chosen channels open in a new tab, at your last volume level
 - **Chat radar**: get pinged when your name or chosen words show up in chat
 - **Multi-stream**: up to 4 streams in one tab
 - **Optional ad blocking**, no tracking, 14 languages
 
 🌐 [Website](https://segelferd.github.io/kick-alert/) · 📦 [Source](https://github.com/segelferd/kick-alert) · 🐛 [Report an issue](https://github.com/segelferd/kick-alert/issues)
+
+---
+
+### 📥 GrabPost
+
+**A downloader for Reddit.** Adds a Download button to every post: images, galleries, videos with sound, GIFs, Redgifs and Imgur links.
+
+<p>
+  <a href="https://github.com/segelferd/grabpost/blob/main/CHANGELOG.md"><img alt="Latest version" src="https://img.shields.io/github/manifest-json/v/segelferd/grabpost?label=version&color=FF4500"></a>
+  <img alt="Chrome, Edge, Brave, Opera, Firefox" src="https://img.shields.io/badge/Chromium%20%26%20Firefox-install%20from%20GitHub-555">
+</p>
+
+- **Bulk download** of whole subreddits, profiles, searches and saved posts, with Reddit's rate limits respected
+- **Follow subreddits and users**: scheduled checks, desktop notifications, optional auto-download, up to 10 favorites checked often
+- **Duplicate detection** by content, not just the address, for images and videos
+- **History, folder and file name templates, automatic backups**, 15 languages
+
+🌐 [Website](https://segelferd.github.io/grabpost/) · 📦 [Source](https://github.com/segelferd/grabpost) · 🐛 [Report an issue](https://github.com/segelferd/grabpost/issues)
 
 ---
 
@@ -31,7 +52,9 @@ Indie developer from Istanbul. I build small browser tools and automations that 
 
 ### 🌱 Right now
 
-Shipping KickAlert v2.6.0 to Chrome, Firefox and, for the first time, Edge and Opera.
+KickAlert 2.6.2 is rolling out to Chrome, Firefox and Edge, with Opera next. GrabPost is getting ready for the extension stores.
+
+Both are source-available under the [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/) license: free for personal and noncommercial use.
 
 ---
 
