@@ -12,7 +12,7 @@ Indie developer from Istanbul. I build small browser tools and automations that 
   <a href="https://chromewebstore.google.com/detail/dlchkgjgcmbgpbdiiipibnpjfhipkbac"><img alt="Chrome Web Store users" src="https://img.shields.io/chrome-web-store/users/dlchkgjgcmbgpbdiiipibnpjfhipkbac?label=Chrome&logo=googlechrome&logoColor=white&color=53fc18"></a>
   <a href="https://chromewebstore.google.com/detail/dlchkgjgcmbgpbdiiipibnpjfhipkbac"><img alt="Chrome Web Store rating" src="https://img.shields.io/chrome-web-store/rating/dlchkgjgcmbgpbdiiipibnpjfhipkbac?label=rating&color=53fc18"></a>
   <a href="https://addons.mozilla.org/firefox/addon/kickalert/"><img alt="Firefox Add-ons users" src="https://img.shields.io/amo/users/kickalert?label=Firefox&logo=firefoxbrowser&logoColor=white&color=53fc18"></a>
-  <a href="https://microsoftedge.microsoft.com/addons/search/kickalert"><img alt="Available on Microsoft Edge Add-ons" src="https://img.shields.io/badge/Edge-available-53fc18?logo=microsoftedge&logoColor=white"></a>
+  <a href="https://microsoftedge.microsoft.com/addons/detail/eojjllomnackghkodhhfnpncdmfdhica"><img alt="Available on Microsoft Edge Add-ons" src="https://img.shields.io/badge/Edge-available-53fc18?logo=microsoftedge&logoColor=white"></a>
   <a href="https://github.com/segelferd/kick-alert/blob/main/CHANGELOG.md"><img alt="Latest version" src="https://img.shields.io/github/manifest-json/v/segelferd/kick-alert?label=version&color=555"></a>
 </p>
 
