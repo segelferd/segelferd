@@ -55,7 +55,7 @@ Indie developer from Istanbul. I build small browser tools and automations that 
 
 KickAlert 2.6.2 is rolling out to Chrome, Firefox and Edge, with Opera next. GrabPost is now live on the Chrome Web Store and Firefox Add-ons.
 
-Both are source-available under the [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/) license: free for personal and noncommercial use.
+Both are source-available under the [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0) license: free for personal and noncommercial use.
 
 ---
 
